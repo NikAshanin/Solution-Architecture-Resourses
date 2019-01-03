@@ -1,5 +1,9 @@
 # Solution-Architecture-Resourses
 
+## System design
+
+- https://github.com/shashank88/system_design a list with links for making a distributed system
+
 ## Architecture Visualization and Diagrams
 
 - https://c4model.com/

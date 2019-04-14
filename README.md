@@ -15,6 +15,12 @@
 ### AWS
 - https://www.udemy.com/aws-certified-solutions-architect-associate starting point to take an Certified Associate AWS Architect
 
-
 ## NFR
 - http://www.lecloud.net/tagged/scalability scalability for dummies
+
+## Logging
+- https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying 
+- https://facingissuesonit.com/how-to-configure-filebeat-kafka-logstash-input-elasticsearch-output-and-kibana-dashboard/
+
+## Containers
+- https://github.com/kelseyhightower/kubernetes-the-hard-way the best way to learn kubernetes

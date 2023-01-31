@@ -15,6 +15,9 @@
 ### AWS
 - https://www.udemy.com/aws-certified-solutions-architect-associate starting point to take an Certified Associate AWS Architect
 
+### Azure
+- https://learn.microsoft.com/en-us/azure/architecture/   (Azure Architecture Center)
+
 ## NFR
 - http://www.lecloud.net/tagged/scalability scalability for dummies
 
